@@ -1,0 +1,592 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ecomanic version 1.0\n"
+"POT-Creation-Date: 2016-07-11 11:56+0500\n"
+"PO-Revision-Date: 2016-07-11 11:56+0500\n"
+"Last-Translator: amir <amirkhan0617@gmail.com>\n"
+"Language-Team: Theme Bunch <amirmcs0617@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;_n;_x\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\test_work\\ecomanic\\wp-content"
+"\\themes\\ecomanic\n"
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/404.php:23
+msgid ""
+"The page you are looking for no longer exists. Perhaps you can return back "
+"to the sites homepage and see if you can find what you are looking for. Or, "
+"you can try finding it with the information below."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/404.php:26
+msgid "Search for Keywords"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/404.php:32
+msgid "Back to Home"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/comments.php:54
+msgid "Add a Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/footer.php:29
+msgid "Logo"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/footer.php:30
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/appointment.php:26
+msgid "Phone:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/footer.php:31
+msgid "E-mail:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/functions.php:34
+msgid "Main Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/functions.php:58
+msgid "Default Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/functions.php:60
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/functions.php:81
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/functions.php:68
+msgid "Footer Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/functions.php:70
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/functions.php:79
+msgid "Blog Listing"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/functions.php:184
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/functions.php:185
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/functions.php:186
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/functions.php:192
+msgid "on"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/header.php:42
+msgid "Call us"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/header.php:43
+msgid "Get a Quote"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/header.php:58
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/header.php:60
+msgid "Ecomanic"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:25
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:70
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:236
+msgid "All Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:49
+msgid "No Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:116
+msgid "Home"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:164
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:165
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:166
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:167
+msgid "Archive for "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:168
+msgid "Search Results for "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:169
+msgid "404 - Not Found"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:187
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:214
+msgid "You must agreed the policy"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:224
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:228
+msgid "Username or email already exists.  Password inherited."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:241
+msgid "commenter"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:249
+msgid "Reply"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:279
+msgid "Your Name"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:280
+msgid "Enter Your Email Address"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:281
+msgid "Enter a Subject"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:283
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:295
+msgid "Type Message Here"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:298
+msgid "Your email address will not be published."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:303
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:304
+msgid "Cancel reply"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:305
+msgid "Send Message "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:587
+msgid "Poor"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:587
+msgid "Satisfactory"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:587
+msgid "Good"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:587
+msgid "Better"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:587
+msgid "Awesome"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:609
+#, php-format
+msgid "Average Rating %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:649
+msgid "Loading..."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/functions.php:698
+msgid "logo"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:10
+msgid "ecomanic Recent Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:10
+msgid "Show the recent posts"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:55
+msgid "Latest News"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:60
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:226
+msgid "Title: "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:64
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:230
+msgid "No. of Posts:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:69
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:235
+msgid "Category"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:86
+msgid "posted by"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:152
+msgid "Title:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:153
+msgid "About Us"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:156
+msgid "Content:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:160
+msgid "Show Social Icons:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:176
+msgid "Ecomanic Gallery Widget"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:176
+msgid "Show the Gallery images"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/library/widgets.php:221
+msgid "Gallery Widget"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/loader.php:163
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/loader.php:164
+msgid "Theme Options"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/loader.php:167
+msgid "Facebook"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/loader.php:167
+msgid "Twitter"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/loader.php:167
+msgid "Dribble"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/loader.php:167
+msgid "Github"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/loader.php:168
+msgid "Flickr"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/loader.php:168
+msgid "Google+"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/loader.php:168
+msgid "Youtube"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/appointment.php:12
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/banner.php:6
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/banner_three.php:7
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/banner_two.php:8
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/checkout_services.php:41
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/feature_services.php:30
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/feature_services_2.php:12
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/history.php:26
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/what_we_do.php:27
+msgid "Image"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/clients.php:14
+msgid "image"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/contact_form.php:27
+msgid "Email"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/contact_form.php:28
+msgid "Phone"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/contact_form.php:29
+msgid "Fax"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/contact_form.php:30
+msgid "Website"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/modules/shortcodes/product_carousel.php:38
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/content-product.php:87
+msgid "VIEW DETAILS"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:912
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2618
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1019
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/vc_map.php:6
+msgid "bbPress Forums"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/vc_map.php:9
+msgid "Jollyall"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/vc_map.php:16
+msgid "Forum"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/vc_map.php:179
+msgid "Container"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/includes/vc_map.php:182
+msgid "Choose whether you want to add a container before row or not."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/search.php:68
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/sidebar.php:15
+msgid "by : "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/sidebar.php:17
+msgid "in : "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/sidebar.php:19
+msgid " 123 Likes "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/sidebar.php:21
+msgid " Print "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/sidebar.php:35
+msgid "Read More"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/single.php:82
+msgid "Pages: "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/tag.php:41
+msgid "you are here: "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/cart/cart-totals.php:24
+msgid "Subtotal"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/cart/cart-totals.php:61
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/cart/cart.php:30
+msgid "Total"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/cart/cart.php:26
+msgid "Preview"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/cart/cart.php:71
+msgid "Available on backorder"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/cart/cart.php:110
+msgid "Remove this item"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/cart/cart.php:165
+msgid "Shipping"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/checkout/payment.php:34
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/checkout/payment.php:34
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/checkout/payment.php:41
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/content-single-product.php:66
+msgid "Price : "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ecomanic\wp-content\themes\ecomanic/woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
